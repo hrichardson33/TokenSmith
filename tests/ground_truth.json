@@ -1,0 +1,8 @@
+{
+  "What is normalization?": [438, 433],
+  "What does SQL stand for?": [143, 192],
+  "What is ACID?": [1061,1520],
+  "How does query optimization help improve efficiency?": [892, 1006],
+  "Can a 2PL protocol allow for release and then new locks?": [1094, 1095],
+  "Give an example of how cost estimation can be wrong when data is not uniform.": [894]
+}
